@@ -9,6 +9,6 @@ void CPP_State::Stop()
 {
 }
 
-void CPP_State::Update()
+void CPP_State::Update(float tick)
 {
 }

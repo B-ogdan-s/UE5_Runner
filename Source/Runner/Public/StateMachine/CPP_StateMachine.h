@@ -7,7 +7,7 @@
 #include "StateMachine/CPP_State.h"
 
 template<typename T>
-class RUNNER_API CPP_StateMachine
+class CPP_StateMachine
 {
 private:
 	std::map<std::string, std::shared_ptr<T>> StatesMap;
